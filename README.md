@@ -30,7 +30,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 5. open link localhost/phpmyadmin
 
-6. click on new at side navbar.
+6. click on new at side navbar
 
 7. give a database name as (onlineshop) hit on create button.
 
