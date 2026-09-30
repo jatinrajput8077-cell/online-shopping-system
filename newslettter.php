@@ -2,7 +2,7 @@
 
         
 
-        <div id="newsletter" class="section">
+      <div id="newsletter" class="section">
 			<!-- container -->
 			<div class="container">
 				<!-- row -->
