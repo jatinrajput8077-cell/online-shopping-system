@@ -10,7 +10,7 @@ include "header.php";
 <style>
 
 .row-checkout {
-  display: -ms-flexbox; /* IE10 */
+  display: -ms-flexbox; /* IE10  */
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
