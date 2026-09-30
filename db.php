@@ -5,7 +5,7 @@ $username = "root";
 $password = "";
 $db = "onlineshop";
 
-// Create connection
+// Create connections
 $con = mysqli_connect($servername, $username, $password,$db);
 
 // Check connection
