@@ -1,7 +1,7 @@
 <?php
 include "header.php";
 ?>
-		<!-- /BREADCRUMB -->
+		<!-- /BREADCRUMBs -->
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
