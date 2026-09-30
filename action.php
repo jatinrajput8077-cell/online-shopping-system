@@ -298,7 +298,7 @@ if (isset($_POST["count_item"])) {
 	echo $row["count_item"];
 	exit();
 }
-//Count User cart item
+//Count User cart items
 
 //Get Cart Item From Database to Dropdown menu
 if (isset($_POST["Common"])) {
