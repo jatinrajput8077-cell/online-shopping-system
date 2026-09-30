@@ -6,7 +6,7 @@
     <!-- Indicators -->
    
 
-    <!-- Wrapper for slides -->
+    <!-- Wrapper for slide -->
     <div class="carousel-inner">
 
       <div class="item active">
